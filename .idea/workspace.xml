@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bec5c6-9091-4379-b474-5f091fb64633" name="Default Changelist" comment="" />
+    <list default="true" id="a2bec5c6-9091-4379-b474-5f091fb64633" name="Default Changelist" comment="dc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my-chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my-chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my-list.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,15 +34,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kmV8T810nmzt5y7VARX9JyDo58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
@@ -53,17 +82,43 @@
       <workItem from="1606388650106" duration="121000" />
       <workItem from="1606389052457" duration="623000" />
       <workItem from="1606389770027" duration="8304000" />
+      <workItem from="1606452840734" duration="765000" />
+      <workItem from="1606469998028" duration="5502000" />
+      <workItem from="1606475978537" duration="10000" />
+      <workItem from="1606870415277" duration="2178000" />
+      <workItem from="1606872634955" duration="893000" />
+      <workItem from="1606907483177" duration="7272000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dc" />
+    <option name="LAST_COMMIT_MESSAGE" value="dc" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606389346759">
+    <state x="431" y="131" key="#Web_Browsers" timestamp="1606910718878">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1606389346759" />
+    <state x="431" y="131" key="#Web_Browsers/0.0.1280.689@0.0.1280.689" timestamp="1606910718878" />
+    <state x="22" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606910731120">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="22" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1606910731120" />
     <state x="396" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606389158937">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -72,10 +127,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1606389420678" />
-    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1606388746069">
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1606452950022">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1606388746069" />
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1606452950022" />
+    <state x="514" y="243" key="Github.ShareDialog" timestamp="1606453245938">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="514" y="243" key="Github.ShareDialog/0.0.1280.689@0.0.1280.689" timestamp="1606453245938" />
+    <state x="475" y="50" key="Github.UntrackedFilesDialog" timestamp="1606453252626">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="475" y="50" key="Github.UntrackedFilesDialog/0.0.1280.689@0.0.1280.689" timestamp="1606453252626" />
     <state width="1259" height="40" key="GridCell.Tab.0.bottom" timestamp="1606404649886">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -144,6 +207,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1606389333729" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606914539523">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1606914539523" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1606390276980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
