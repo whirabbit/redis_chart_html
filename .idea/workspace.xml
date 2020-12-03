@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bec5c6-9091-4379-b474-5f091fb64633" name="Default Changelist" comment="myself" />
+    <list default="true" id="a2bec5c6-9091-4379-b474-5f091fb64633" name="Default Changelist" comment="dc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my-chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my-chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my-list.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +86,8 @@
       <workItem from="1606475978537" duration="10000" />
       <workItem from="1606870415277" duration="2178000" />
       <workItem from="1606872634955" duration="893000" />
-      <workItem from="1606907483177" duration="7688000" />
+      <workItem from="1606907483177" duration="8184000" />
+      <workItem from="1606994262093" duration="507000" />
     </task>
     <task id="LOCAL-00001" summary="myself">
       <created>1606914785534</created>
@@ -91,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606914785534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="myself">
+      <created>1606915239838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606915239838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,10 +223,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1606389333729" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606914539523">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606915525395">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1606914539523" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1606915525395" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1606390276980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

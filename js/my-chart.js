@@ -1,6 +1,6 @@
 // 设置参数
 
-    function putMessageChart (dat) {
+    function putMessageChart (dat,id) {
 
 //数据整合
         var data_labels = new Array();
@@ -9,11 +9,8 @@
         for (var i=0;i<dat.length;i++){
             data_labels[i]=dat.message[i].interfaceName;
             date_number[i]=dat.message[i].total;
-
-
         }
-        data_backgroundColor=data_message.list[0].color;
-        console.log(data_message.list[0].color);
+        data_backgroundColor=data_message.list[id].color;
         var data = {
             labels: data_labels,
             datasets: [
@@ -23,8 +20,6 @@
                     hoverBackgroundColor:data_backgroundColor
                 }],
         };
-
-
 // Get the context of the canvas element we want to select
         var ctx = document.getElementById("myChart").getContext("2d");
         var myBarChart = new Chart(ctx, {

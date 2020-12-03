@@ -20,9 +20,9 @@ $(
                    let html=" <div class=\"col-md-4\" style=\"background-color: #dedef8;" +
                         "         box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;\">" +
                         data.list[i].name +
-                        "      </div>" +
-                        "      <div  class=\"col-md-8\" style=\"background-color: #dedef8;" +
-                        "         box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;\">" +
+                        " </div>" +
+                        " <div  class=\"col-md-8\" style=\"background-color: #dedef8;" +
+                        " box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;\">" +
                         data.list[i].total+
                         "<button  id="+data.list[i].name+" type=\"button\" class=\"btn btn-default btn-xs\">" +"查看"+
                         "<span class=\"glyphicon glyphicon-chevron-down\"></span>" +
@@ -90,7 +90,7 @@ function showTable(arr,id){
                     "<td>" + data.message[i].total + "</td>" +
                     "</tr>";
             }
-            van= putMessageChart(data);
+            van= putMessageChart(data,i);
             html = html + "</table>";
             arr.after(html);
         }
