@@ -1,16 +1,16 @@
 // 设置参数
 
-    function putMessageChart (dat,id) {
+    function putMessageChart (dat,color) {
 
 //数据整合
         var data_labels = new Array();
         var date_number = new Array();
-        var data_backgroundColor ;
+        var data_backgroundColor;
         for (var i=0;i<dat.length;i++){
             data_labels[i]=dat.message[i].interfaceName;
             date_number[i]=dat.message[i].total;
         }
-        data_backgroundColor=data_message.list[id].color;
+        data_backgroundColor=color;
         var data = {
             labels: data_labels,
             datasets: [
